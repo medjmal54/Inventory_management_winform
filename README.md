@@ -40,4 +40,4 @@ Originally inspired by a [YouTube tutorial](https://www.youtube.com/watch?v=s1kf
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/winforms-dashboard-app.git
+   git clone https://github.com/medjmal54/Inventory_management_winform.git
