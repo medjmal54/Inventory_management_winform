@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.exe
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.deps.json
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.runtimeconfig.json
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.dll
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.pdb
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.InventoryManagement.resources
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.AssemblyInfo.cs
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.dll
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\refint\InventoryManager.dll
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.pdb
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.genruntimeconfig.cache
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\ref\InventoryManager.dll
+C:\Users\pc\source\repos\InventoryManager\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.Properties.Resources.resources
